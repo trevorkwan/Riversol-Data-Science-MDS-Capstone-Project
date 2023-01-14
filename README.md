@@ -1,4 +1,4 @@
-# Classification model
+# Classification Modeling for Riversol
 
 This is a model to predict whether or not a sample taker will become a paying customer in the furture. After running the following step by step, you will get an extra column called "buy_pred" that contains True/False prediction based on the 8 features. 
 
