@@ -1,0 +1,6 @@
+accepts_marketing,ordered_month,location,gender,free_shipping,product_type,skin_type,fv_site
+False,6,"ONTARIO, CANADA",female,True,Anti-Aging,Very Dry,other
+False,2,"ALBERTA, CANADA",unknown,True,Anti-Aging,Combination,other
+True,11,"ONTARIO, CANADA",female,True,Anti-Aging,Very Dry,other
+True,2,"ALBERTA, CANADA",female,True,Anti-Aging,Normal to Dry,other
+True,4,"MANITOBA, CANADA",female,True,Anti-Aging,Normal to Dry,other
