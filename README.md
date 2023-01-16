@@ -1,10 +1,11 @@
 # Classification Modeling for Riversol
 
-We built a classification model to predict whether or not a sample taker will become a paying customer. 
+We were tasked with predicting whether or not a sample taker will become a paying customer. To answer this business question, we built a classification model. However, due to limitations in quality of features and number of features provided, our model yielded high recall but low precision. We then pivot towards conducting exploratory feature analysis to help Riversol identify customer features that are most influential to whether or not a sample taker will end up purchasing.
 
-*After running the following step by step, you will get an extra column called "buy_pred" that contains True/False prediction based on the 8 features. 
+The final report for classification modeling and exploratory analysis can be found [here](https://github.com/trevorkwan/Riversol-Data-Science-MDS-Capstone-Project/blob/main/reports/Final_Exploratory_Analysis_Classification_Report.pdf).
 
 # Usage
+*After running the following step by step, you will get an extra column called "buy_pred" that contains True/False prediction based on the 8 features. 
 #### Prerequisite
 Before step 1, you should have postgressql installed.\
 Please check [HERE](https://www.postgresql.org/download/) for downloading or run `brew install postgresql` in the terminal if you are on a Mac with homebrew.
